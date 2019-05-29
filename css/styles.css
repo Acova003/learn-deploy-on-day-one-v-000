@@ -3,6 +3,7 @@
 
 *, *:before, *:after {
   box-sizing: border-box;
+  border: 1px;
   /*border: 1px solid red;*/
 }
 
